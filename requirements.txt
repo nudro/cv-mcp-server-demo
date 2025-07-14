@@ -1,0 +1,19 @@
+# MCP Server dependencies
+mcp>=1.0.0
+
+# Computer Vision and ML dependencies
+ultralytics>=8.0.0
+opencv-python>=4.8.0
+torch>=2.0.0
+torchvision>=0.15.0
+transformers>=4.30.0
+numpy>=1.24.0
+Pillow>=10.0.0
+
+# Additional dependencies for video processing
+ffmpeg-python>=0.2.0
+yt-dlp>=2023.0.0
+
+# Utilities
+dataclasses-json>=0.6.0
+typing-extensions>=4.5.0 
